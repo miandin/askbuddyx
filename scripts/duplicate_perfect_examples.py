@@ -49,5 +49,3 @@ if __name__ == "__main__":
     times = int(sys.argv[3]) if len(sys.argv) > 3 else 10
     
     duplicate_examples(input_file, output_file, times)
-
-# Made with Bob

@@ -95,5 +95,3 @@ if __name__ == '__main__':
     print(f"Open your browser and go to: http://localhost:{port}")
     print("="*60 + "\n")
     app.run(host='0.0.0.0', port=port, debug=False)
-
-# Made with Bob

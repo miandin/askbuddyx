@@ -102,5 +102,3 @@ if __name__ == "__main__":
         merge_multiple_datasets()
     else:
         merge_datasets(args.base, args.custom, args.output)
-
-# Made with Bob

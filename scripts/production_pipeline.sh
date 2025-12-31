@@ -73,5 +73,3 @@ echo "Pipeline complete!"
 echo "Version: $VERSION"
 echo "Adapter: outputs/adapters/$VERSION"
 echo "=========================================="
-
-# Made with Bob

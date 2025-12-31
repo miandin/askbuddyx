@@ -94,5 +94,3 @@ Rules:
 
 if __name__ == "__main__":
     sys.exit(test_model_output())
-
-# Made with Bob
